@@ -1,0 +1,18 @@
+Pseudo-code:
+Create die class
+Create Roll Dice method
+Create options matrix
+Create pick interface
+Create board structure
+Update board
+
+Player class:
+Needs column trackers
+-1 for someone else owns the column
+Give each player a board?
+
+For board:
+Has 11 columns
+Each column has:
+1) current placement
+2) Final placement
