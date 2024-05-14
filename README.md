@@ -1,0 +1,1 @@
+This is a repo for my CANT_STOP project. The goal of this project is to design a tool which will tell you what your next move should be in the game "Can't Stop". The game is played on [Board Game Arena](https://boardgamearena.com/gamepanel?game=cantstop).
